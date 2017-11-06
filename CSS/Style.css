@@ -1,7 +1,14 @@
 .c {
-	background-color: orange;
-	color: yellow;
-	width: 850px;
-	height: 250px;
+	color: #00FFFF;
+	width: 750px;
+	height: 150px;
 	font-size: 30px;
+}
+
+p.content {
+	padding: 50px;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: center;
+	background: gray;
 }
