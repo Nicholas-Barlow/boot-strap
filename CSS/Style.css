@@ -14,12 +14,13 @@ p.content {
 	background: gray;
 }
 
-p.content2 {
+p.contents {
 	padding: 50px;
 	font-size: 20px;
 	font-weight: bold;
 	text-align: center;
 	font-family: garamond;
-	background: gray;
+	background-image: url("../Media/hill.jpg");
+	width: 100%;
+	height: 100%;
 }
-
