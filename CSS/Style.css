@@ -7,9 +7,19 @@
 
 p.content {
 	padding: 50px;
-	font-size: 32px;
+	font-size: 20px;
 	font-weight: bold;
 	text-align: center;
+	font-family: garamond;
+	background: gray;
+}
+
+p.content2 {
+	padding: 50px;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	font-family: garamond;
 	background: gray;
 }
 
